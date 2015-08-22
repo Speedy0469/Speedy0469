@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+	
+
+<addon id="repository.Speedy0469" name="Speedy0469 Repository" version="1.0" provider-name="Speedy0469">
+    <extension point="xbmc.addon.repository" name="Speedy0469 Repository">
+        <info compressed="false">https://github.com/Speedy0469/Speedy0469/master/addons.xml</info>
+        <checksum></checksum>
+        <datadir zip="true">https://github.com/Speedy0469/Speedy0469/master/install-from-zip</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Install all of Speedy0469's Addons</summary>
+        <description>Install addons </description>
+        <platform>all</platform>
+    </extension>
+</addon>
+</addons>
